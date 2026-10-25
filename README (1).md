@@ -67,8 +67,8 @@ Put `portscan.py`, `requirements.txt`, `README.md` and `LICENSE` in one folder, 
 If you keep the project in a Git repository, clone it instead:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/MrNobody10000-1/n-map-tool.git
+cd n-map-tool
 ```
 
 ### 3. (Optional) Create a virtual environment

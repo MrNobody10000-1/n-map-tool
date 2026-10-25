@@ -1,0 +1,6 @@
+# PortPeek (portscan.py) needs Python 3.8 or newer and nothing else.
+# It uses only the Python standard library, so there are no packages to install.
+#
+# Running "pip install -r requirements.txt" is safe and installs nothing.
+# Add a package below only if you extend the scanner and need one, for example:
+# rich>=13.0
